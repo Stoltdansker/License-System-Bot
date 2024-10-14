@@ -21,7 +21,7 @@ This Discord bot is designed to manage license keys and provide administrative u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-bot-repo.git
+   git clone https://github.com/Stoltdansker/License-System-Bot.git
    cd your-bot-repo
 
 2. **Install requirements:**
