@@ -34,23 +34,7 @@ This Discord bot is designed to manage license keys and provide administrative u
    {
     "admin_role_id": "YOUR-ADMIN-ROLE-ID"
    }
-```bash
-   {
-    "keys": [
-        {
-            "key": "KEY-HERE",
-            "role_id": "ROLE-ID-HERE"
-        },
-        {
-            "key": "KEY-HERE",
-            "role_id": "ROLE-ID-HERE"
-        },
-        {
-            "key": "KEY-HERE",
-            "role_id": "ROLE-ID-HERE"
-        }
-    ]
-   }
+   
 
 - **Anything else can be set in the server**
 
