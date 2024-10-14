@@ -27,6 +27,7 @@ This Discord bot is designed to manage license keys and provide administrative u
 2. **Install requirements:**
    ```bash
    pip install discord.py
+   pip install logging
    
 3. **Create Configuration Files:**
    ```bash
