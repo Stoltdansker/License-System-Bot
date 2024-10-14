@@ -32,7 +32,7 @@ This Discord bot is designed to manage license keys and provide administrative u
 3. **Create Configuration Files:**
    ```bash
    {
-    "admin_role_id": "YOUR_ADMIN_ROLE_ID"
+    "admin_role_id": "YOUR-ADMIN-ROLE-ID"
    }
 
 - **Anything else can be set in the server**
