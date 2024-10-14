@@ -44,7 +44,7 @@ This Discord bot is designed to manage license keys and provide administrative u
 - **/setup_log_channel**: Set the log channel for the bot (admin only).
 - **/add_license**: Add a new license key with a role ID (admin only).
 - **/remove_license**: Remove an existing license key (admin only).
-- **/redeem_license**: Redeem a valid license key and assign the corresponding role.
+- **/redeem**: Redeem a valid license key and assign the corresponding role.
 
 ## Logging
 
